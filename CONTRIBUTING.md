@@ -30,6 +30,8 @@ There is a guide for submitting rosdep keys [here](http://docs.ros.org/independe
 Updates to rosdep rules require the review of two people.
 This will usually means that it needs a +1, and then it can be merged by a different person.
 
+For convenience in reviewing please link to the web listings of packages such as on packages.ubuntu.com or packages.debian.org or if a pip package pypi.python.org.
+
 How to submit pull requests
 ---------------------------
 
